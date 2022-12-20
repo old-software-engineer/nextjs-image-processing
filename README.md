@@ -41,7 +41,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 # Concepts
 
-- Event handling: Used to get the input from the div by applying the drag and drop events
+- Event handling(Drag & drop): Used to get the input from the div by applying the drag and drop events
 
 - Image handling: Used to check the size of image and only accept the image that are under specific size
 
