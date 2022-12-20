@@ -1,6 +1,6 @@
 # Description
 
-These is the project where we can upload any image and that image will be generated with the sample copyright text. :
+These is the project where we can upload any image and that image will be generated with the sample copyright text.
 - It has drop zone where you can drop any image and that image will be set in img element.
 - After image loading, its dimension will be checked if that is under 500x500 pixels, if not error message will be displayed.
 - After image is processed, image will be loaded in preview image component with the copyright text.
