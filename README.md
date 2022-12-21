@@ -6,6 +6,8 @@ These is the project where we can upload any image and that image will be genera
 - After image is processed, image will be loaded in preview image component with the copyright text.
 
 # Screenshots
+#### Drag & drop image in the drop area
+![Drop image](https://user-images.githubusercontent.com/15182066/208850821-59772570-de2e-44d2-867f-507a497de941.jpg)
 
 #### Error message when we uplaod image above 500x500 pixels
 ![Error message on image size](https://user-images.githubusercontent.com/15182066/208676544-807a4c2c-30c8-4d73-93b9-d16c1377c146.png)
