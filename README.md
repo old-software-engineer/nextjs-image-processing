@@ -5,6 +5,23 @@ These is the project where we can upload any image and that image will be genera
 - After image loading, its dimension will be checked if that is under 500x500 pixels, if not error message will be displayed.
 - After image is processed, image will be loaded in preview image component with the copyright text.
 
+# Concepts
+
+- Event handling(Drag & drop): Used to get the input from the div by applying the drag and drop events
+
+- Image handling: Used to check the size of image and only accept the image that are under specific size
+
+# Installation
+
+First, install all the dependencies and then run the development server:
+
+```bash
+npm install
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 # Screenshots
 #### Drag & drop image in the drop area
 ![Drop image](https://user-images.githubusercontent.com/15182066/208850821-59772570-de2e-44d2-867f-507a497de941.jpg)
@@ -23,25 +40,6 @@ These is the project where we can upload any image and that image will be genera
 ![Generated image](https://user-images.githubusercontent.com/15182066/208676588-f6a748d3-0177-4f06-a607-664df3a01860.png)
 
 
-# About
-
-This project has a drop area where you can drop any image(should be below 500x500 pixels), then generate button will be appeared. After clicking on generate, image will be processed with sample copyright text.
-
-### Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-# Concepts
-
-- Event handling(Drag & drop): Used to get the input from the div by applying the drag and drop events
-
-- Image handling: Used to check the size of image and only accept the image that are under specific size
 
 # Tools & Libraries
 
