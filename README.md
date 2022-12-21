@@ -1,4 +1,4 @@
-# Description
+# About
 
 These is the project where we can upload any image and that image will be generated with the sample copyright text.
 - It has drop zone where you can drop any image and that image will be set in img element.
