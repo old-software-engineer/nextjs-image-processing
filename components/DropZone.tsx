@@ -41,6 +41,7 @@ const DropZone = ({ setFile }: dropProps) => {
         className="drop-container"
         onDragOver={preventActions}
         onDrop={processImage}
+        data-testid="drop-container"
       >
         <h4>{dropBoxMsg}</h4>
       </div>
