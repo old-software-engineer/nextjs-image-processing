@@ -23,6 +23,15 @@ In this project, where we can upload any image and that image will be generated 
 
 - ESLint: It is a linter that you can integrate into your Visual Studio Code setup in order to ensure code integrity.
 
+# Testing
+
+#### Jest
+- Checks drop image message
+- Checks generate button should not show if dropped file is not image
+- Checks renders image as preview
+- Checks watermark on image
+
+
 # Installation
 
 First, install all the dependencies and then run the development server:
