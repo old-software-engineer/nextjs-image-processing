@@ -7,10 +7,11 @@ In this project, where we can upload any image and that image will be generated 
 
 # Concepts
 
-- Event handling(Drag & drop): Used to get the input from the div by applying the drag and drop events
+- Event handling(Drag & drop): Used to get the input from the div by applying the drag and drop events.
 
-- Image handling: Used to check the size of image and only accept the image that are under specific size
+- Image handling: Used to check the size of image and only accept the image that are under specific size.
 
+- Testing: Used jest to make test cases for the user interface.
 
 # Tools & Libraries
 
@@ -18,12 +19,13 @@ In this project, where we can upload any image and that image will be generated 
 
 - Typescript: It is a strict syntactical superset of JavaScript and adds optional static typing to the language.
 
+- Jest: It is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase.
 
 # Linting and Formatting
 
 - ESLint: It is a linter that you can integrate into your Visual Studio Code setup in order to ensure code integrity.
 
-# Testing
+# Test Cases
 
 #### Jest
 - Checks drop image message
